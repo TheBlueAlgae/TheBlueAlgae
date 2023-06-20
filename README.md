@@ -8,9 +8,6 @@ I hope everyone can enjoy the life and be energetic everyday!
 
 Well, you can contact with me by using English or Chinese. Hope we will have pleasure conversations.😊
 
-| ![](https://github-readme-stats.vercel.app/api?username=TheBlueAlgae&show_icons=true) | ![](https://github-readme-stats.vercel.app/api/top-langs?username=TheBlueAlgae) |
-| ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-
 ### The programming languages I am learning and using:
 
 <p align="left">
