@@ -1,8 +1,12 @@
-### Hi there 👋
+## Hi there 👋
 
-I am an undergraduate student who is learning C++, Rust and so on. I love learning Computer Science knowledge and English, also love playing games like [Minecraft](https://www.minecraft.net) and [Genshin Impact](https://genshin.hoyoverse.com).
+As an undergraduate student, I am learning C++, Rust and so on. I love learning Computer Science knowledge and English, also love playing games like [Minecraft](https://www.minecraft.net) and [Genshin Impact](https://genshin.hoyoverse.com).
 
-Recently I am planning writting a Minecraft Launcher which is written in Rust as a challenge for me. I dreamed about writting something funny in the future.
+I also think highly of personal privacies, so I hate maliciously collecting (or also personally called "stealing") personal data without explicitly inform users in advanced. I hope every countries and territories can reinforce their strategies to store and manage personal data to prevent users from being "bared" on the Internet, like the GDPR the EU made.
+
+A typical case that maliciosly collect personal data is delete Wenjuanxing's account. They require users provide their real name and ID number to delete their accounts. Here is the original website of this requirement that is written in Chinese (you might need a translator to browse this website): [The process of deleting Wenjuanxing's account](https://www.wjx.cn/help/help.aspx?helpid=413).
+
+So, with my statements above, softwares I developed will never collect any of your data. All personal data produced will locally be stored and encrypted on your devices.
 
 I hope everyone can enjoy the life and be energetic everyday!
 
