@@ -6,7 +6,7 @@ Recently I am planning writting a Minecraft Launcher which is written in Rust as
 
 I hope everyone can enjoy the life and be energetic everyday!
 
-Well, you can contact with me by using English or Chinese. Hope we will have pleasure conversations.😊
+Well, you can contact me by using English or Chinese. Hope we will have pleasure conversations.😊
 
 ### The programming languages I am learning and using:
 
