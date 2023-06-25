@@ -12,6 +12,8 @@ I hope everyone can enjoy the life and be energetic everyday! Life will be fille
 
 Well, you can contact me by using English or Chinese. Hope we will have pleasure conversations.😊
 
+My email address: <a href="mailto:thebluealgae@outlook.com">thebluealgae@outlook.com</a>.
+
 ### The programming languages I am learning and using:
 
 <p align="left">
