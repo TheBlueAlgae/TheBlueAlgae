@@ -2,7 +2,7 @@
 
 As an undergraduate student, I am learning C++, Rust and so on. I love learning Computer Science knowledge and English, also love playing games like [Minecraft](https://www.minecraft.net) and [Genshin Impact](https://genshin.hoyoverse.com).
 
-I also think highly of personal privacy, so I hate maliciously collecting (or also personally called "stealing") personal data without explicitly inform users in advanced. I hope every countries and territories can reinforce their strategies to store and manage personal data to prevent users from being "bared" on the Internet, like the GDPR the EU made.
+I also think highly of personal privacy, so I hate maliciously collecting (or also personally called "stealing") personal data, even though explicitly informed users in advanced. I hope every countries and territories can reinforce their strategies to store and manage personal data to prevent users from being "bared" on the Internet, like the GDPR the EU made.
 
 A typical case that maliciously collect personal data is the requirements of deleting Wenjuanxing's account. They require users provide their real name and ID number to delete their accounts. Here is the original website that is written in Chinese (you might need a translator to browse this website): [The Process of Deleting Wenjuanxing's Account](https://www.wjx.cn/help/help.aspx?helpid=413).
 
