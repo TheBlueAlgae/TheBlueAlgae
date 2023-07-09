@@ -24,9 +24,15 @@ My email address: <a href="mailto:thebluealgae@outlook.com">thebluealgae@outlook
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="64" height="64"/>
   </a>
   <a href="https://java.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="64" height="64"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="64" height="64"/>
   </a>
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="64" height="64"/>
+  </a>
+  <a href="https://dart.dev" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="64" height="64"/>
+  </a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="64" height="64"/>
   </a>
 </p>
